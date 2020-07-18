@@ -5,9 +5,10 @@
 [![Facebook Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=d81b60&logo=facebook&logoColor=ffffff)](https://www.facebook.com/abdalimran/)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DAbdullahAlImran&suffix=%20Followers)](https://twitter.com/AbdullahAlImran)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@abdalimran)
-[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/abdalimran)
 [![Personal Blog](https://img.shields.io/badge/%20-Visit-black?color=14171A&labelColor=37474f&logo=blogger&logoColor=4fc3f7)](https://abdalimran.github.io)
-
+<!---
+[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/abdalimran)
+-->
 
 ## Hi there!! 👋
 This is Imran, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.
