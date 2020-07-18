@@ -9,5 +9,5 @@
 [![Personal Blog](https://img.shields.io/badge/%20-Visit-black?color=14171A&labelColor=37474f&logo=blogger&logoColor=4fc3f7)](https://abdalimran.github.io)
 
 
-#### Hi there!! 👋
+## Hi there!! 👋
 This is Imran, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.
