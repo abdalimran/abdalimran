@@ -5,7 +5,7 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:abdalimran@gmail.com?subject=From%20GitHub&cc=harun15-6647@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abdalimran/)
-[![Facebook Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=4267B2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/abdalimran/)
+[![Facebook Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=4267B2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/abdalimran/)<br>
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7)](https://twitter.com/AbdullahAlImran)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@abdalimran)
 [![Personal Blog](https://img.shields.io/badge/%20-Blog-black?color=14171A&labelColor=F57C00&logo=blogger&logoColor=ffffff)](https://abdalimran.github.io)
