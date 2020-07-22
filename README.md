@@ -1,4 +1,4 @@
-<a target="_blank" href="https://abdalimran.github.io"><img width="450" align="right" src="https://github.com/abdalimran/abdalimran.github.io/raw/master/images/analytics_cover.jpg"></a><br>
+<a target="_blank" href="https://abdalimran.github.io"><img width="500" align="right" src="https://github.com/abdalimran/abdalimran.github.io/raw/master/images/analytics_cover.jpg"></a>
 <!---
 <img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=abdalimran&show_icons=true" alt="abdalimran"/>
 -->
@@ -11,7 +11,7 @@
 [![Personal Blog](https://img.shields.io/badge/%20-Blog-black?color=14171A&labelColor=F57C00&logo=blogger&logoColor=ffffff)](https://abdalimran.github.io)
 <!---
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/abdalimran)
-
+-->
 
 ## Hi there!! 👋
 This is Imran, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.
