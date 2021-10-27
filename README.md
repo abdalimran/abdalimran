@@ -5,7 +5,7 @@
 [![Facebook Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=4267B2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/abdalimran/)<br>
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7)](https://twitter.com/AbdullahAlImran)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@abdalimran)
-[![Personal Blog](https://img.shields.io/badge/%20-Blog-black?color=14171A&labelColor=F57C00&logo=blogger&logoColor=ffffff)](https://abdalimran.github.io)
+[![Personal Blog](https://img.shields.io/badge/%20-Blog-black?color=14171A&labelColor=F57C00&logo=blogger&logoColor=ffffff)](https://imranabdullah.com)
 <!---
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/abdalimran)
 -->
