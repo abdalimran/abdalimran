@@ -15,8 +15,8 @@
 ## Hi there!! 👋
 This is Imran, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.<br>
 
-<a href="https://imranabdullah.com"><img height="185" src="https://github-readme-stats.vercel.app/api?username=abdalimran&count_private=true&show_icons=true&count_private=true&theme=dracula" alt="abdalimran"/></a>
+<a href="https://imranabdullah.com"><img src="https://github-readme-stats.vercel.app/api?username=abdalimran&count_private=true&show_icons=true&count_private=true&theme=dracula" alt="abdalimran"/></a>
 
-<a href="imranabdullah.com"><img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalimran&exclude_repo=github-readme-stats,abdalimran.github.io&theme=dracula&langs_count=10&layout=compact&hide=html,css"/></a>
+<a href="imranabdullah.com"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalimran&exclude_repo=github-readme-stats,abdalimran.github.io&theme=dracula&langs_count=10&layout=compact&hide=html,css"/></a>
 
 <img height="300" align="left" src="https://github-profile-trophy.vercel.app/?username=abdalimran" alt="abdalimran"/>
