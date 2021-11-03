@@ -13,4 +13,9 @@
 ## Hi there!! 👋
 This is Imran, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.<br>
 
-<img width="380" align="center" src="https://github-readme-stats.vercel.app/api?username=abdalimran&show_icons=true" alt="abdalimran"/>
+<!-- <img width="380" align="center" src="https://github-readme-stats.vercel.app/api?username=abdalimran&show_icons=true" alt="abdalimran"/> -->
+
+<div>
+  <img width="550" align="left" src="https://github-readme-stats.vercel.app/api?username=abdalimran&count_private=true&show_icons=true&theme=dracula" alt="abdalimran"/>
+  <img width="355" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalimran&theme=dracula&langs_count=10&layout=compact&hide=php"/>
+</div>
