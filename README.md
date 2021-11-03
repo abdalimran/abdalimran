@@ -17,5 +17,5 @@ This is Imran, born and raised in Dhaka, Bangladesh. I am a passionate programme
 
 <div>
   <img height="185" align="left" src="https://github-readme-stats.vercel.app/api?username=abdalimran&count_private=true&show_icons=true&theme=dracula" alt="abdalimran"/>
-  <img height="188" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalimran&theme=dracula&langs_count=10&layout=compact&hide=php"/>
+  <img height="185" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalimran&theme=dracula&langs_count=10&layout=compact&hide=php"/>
 </div>
