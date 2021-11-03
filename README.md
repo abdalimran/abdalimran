@@ -16,6 +16,6 @@ This is Imran, born and raised in Dhaka, Bangladesh. I am a passionate programme
 <!-- <img width="380" align="center" src="https://github-readme-stats.vercel.app/api?username=abdalimran&show_icons=true" alt="abdalimran"/> -->
 
 <div>
-  <img width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=abdalimran&count_private=true&show_icons=true&theme=dracula" alt="abdalimran"/>
+  <img width="380" align="left" src="https://github-readme-stats.vercel.app/api?username=abdalimran&count_private=true&show_icons=true&theme=dracula" alt="abdalimran"/>
   <img width="355" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalimran&theme=dracula&langs_count=10&layout=compact&hide=php"/>
 </div>
