@@ -13,7 +13,7 @@
 <div align="left"><img src="https://komarev.com/ghpvc/?username=abdalimran"/></div>
 
 ## Hi there!! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="28px">
-This is Imran, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.<br>
+This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.<br>
 
 ## Skills
 <div>
@@ -42,18 +42,11 @@ This is Imran, born and raised in Dhaka, Bangladesh. I am a passionate programme
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</div>
+</div><br>
 
 ## Stats
 <div>
   <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=abdalimran&show_icons=true&count_private=true&theme=dracula" alt="abdalimran"/>
   <img height="175" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalimran&theme=dracula&langs_count=10&layout=compact&hide=html,css,scss"/>
-</div>
-<div>
-  <img height="300" align="left" src="https://github-profile-trophy.vercel.app/?username=abdalimran" alt="abdalimran"/>
-</div>
-
-## Reach me out
-<div>
-  <a target="_blank" href="https://www.linkedin.com/in/abdalimran/"><img width="100" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+</div><br>
+<img height="300" align="left" src="https://github-profile-trophy.vercel.app/?username=abdalimran" alt="abdalimran"/><br>
