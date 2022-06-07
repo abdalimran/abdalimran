@@ -12,7 +12,7 @@
 
 <div align="left"><img src="https://komarev.com/ghpvc/?username=abdalimran"/></div>
 
-## Hi there!! <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="28px">
+## Hi there!! 👋
 This is **Imran**, born and raised in Dhaka, Bangladesh. I am a passionate programmer, Data Science/Machine Learning professional and a researcher. Predicting unknowns, discovering patterns and revealing useful insights from data excites me the most. I have the true passion for research, development, learning, teaching and sharing knowledge. I’m a diverse and rapid learner with a dynamic personality who is always desperate for knowledge and wisdom.<br>
 
 ## Skills
