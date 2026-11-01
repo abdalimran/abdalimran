@@ -161,9 +161,9 @@ A T-shaped **AI & Data Science** professional with **10+ years** of experience d
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalimran/abdalimran/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalimran/abdalimran/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdalimran/abdalimran/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalimran/.github/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalimran/.github/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdalimran/.github/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
