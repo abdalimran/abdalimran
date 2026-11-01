@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://imranabdullah.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C1D6&center=true&vCenter=true&width=680&lines=Senior+AI+Scientist+%40+Aon+%F0%9F%87%B8%F0%9F%87%AC;LLMs+%E2%80%A2+AIOps+%E2%80%A2+Agentic+AI+%E2%80%A2+Multimodal+AI;10%2B+years+shipping+ML+to+production+%F0%9F%9A%80;30+papers+%E2%80%A2+500%2B+citations+%F0%9F%93%9A" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C1D6&center=true&vCenter=true&width=680&lines=Senior+AI+Scientist+%40+Aon+%F0%9F%87%B8%F0%9F%87%AC;LLMs+%E2%80%A2+AIOps+%E2%80%A2+Agentic+AI+%E2%80%A2+Multimodal+AI;10%2B+years+shipping+AI/ML+solutions+to+production+%F0%9F%9A%80;30+papers+%E2%80%A2+500%2B+citations+%F0%9F%93%9A" alt="Typing SVG"/>
   </a>
 </p>
 
