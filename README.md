@@ -1,11 +1,11 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <a href="https://imranabdullah.com"><img src="assets/banner.svg" width="100%" alt="Abdullah Al Imran — Thinks like a scientist. Builds like an engineer. Leads with vision."/></a>
+  <a href="https://imranabdullah.com"><img src="https://raw.githubusercontent.com/abdalimran/assets/main/banner.svg" width="100%" alt="Abdullah Al Imran — Thinks like a scientist. Builds like an engineer. Leads with vision."/></a>
 </p>
 
 <p align="center">
   <a href="https://imranabdullah.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C1D6&center=true&vCenter=true&width=680&lines=Senior+AI+Scientist+%40+Aon+%F0%9F%87%B8%F0%9F%87%AC;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI+%E2%80%A2+Multimodal;10%2B+years+shipping+ML+to+production+%F0%9F%9A%80;30+papers+%E2%80%A2+500%2B+citations+%F0%9F%93%9A" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C1D6&center=true&vCenter=true&width=680&lines=Senior+AI+Scientist+%40+Aon+%F0%9F%87%B8%F0%9F%87%AC;LLMs+%E2%80%A2+AIOps+%E2%80%A2+Agentic+AI+%E2%80%A2+Multimodal+AI;10%2B+years+shipping+ML+to+production+%F0%9F%9A%80;30+papers+%E2%80%A2+500%2B+citations+%F0%9F%93%9A" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -43,16 +43,12 @@ A T-shaped **AI & Data Science** professional with **10+ years** of experience d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdalimran&theme=dracula" alt="Profile details and contributions"/>
+  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdalimran&theme=dracula" alt="Profile details and contributions"/>
 </p>
-
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdalimran&theme=dracula" alt="GitHub stats"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdalimran&theme=dracula" alt="Top languages by commit"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdalimran&theme=dracula&hide_border=true&border_radius=10" alt="GitHub streak"/>
+  <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdalimran&theme=dracula" alt="GitHub stats"/>
+  <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdalimran&theme=dracula" alt="Top languages by commit"/>
+  <img width="41.5%" src="https://streak-stats.demolab.com?user=abdalimran&theme=dracula&hide_border=true&border_radius=10" alt="GitHub streak"/>
 </p>
 
 ---
