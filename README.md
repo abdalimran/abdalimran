@@ -43,25 +43,17 @@ A T-shaped **AI & Data Science** professional with **10+ years** of experience d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdalimran&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&border_radius=10" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalimran&layout=compact&langs_count=8&hide=html,css,scss&theme=dracula&hide_border=true&border_radius=10" alt="Top languages"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdalimran&theme=dracula" alt="Profile details and contributions"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdalimran&theme=dracula" alt="GitHub stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdalimran&theme=dracula" alt="Top languages by commit"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abdalimran&theme=dracula&hide_border=true&border_radius=10" alt="GitHub streak"/>
 </p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdalimran&theme=dracula&hide_border=true&area=true&radius=10" alt="Contribution graph"/>
-</p>
-
-<details>
-  <summary><b>🏅 GitHub Trophies</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdalimran&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
-  </p>
-</details>
 
 ---
 
